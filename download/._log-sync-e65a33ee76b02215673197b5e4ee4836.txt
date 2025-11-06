@@ -1,0 +1,4 @@
+[2023-07-31 04:54:22] PHP ERROR:{"type":8192,"message":"Function get_magic_quotes_runtime() is deprecated","file":"\/var\/www\/html\/wp-content\/plugins\/wp-filebase\/extras\/getid3\/getid3.php","line":156}
+[2023-07-31 04:54:22] SHUTDOWN ERROR:{"type":8192,"message":"Array and string offset access syntax with curly braces is deprecated","file":"\/var\/www\/html\/wp-content\/plugins\/wp-filebase\/extras\/getid3\/module.tag.id3v1.php","line":46}
+[2023-07-31 04:54:38] PHP ERROR:{"type":8192,"message":"Function get_magic_quotes_runtime() is deprecated","file":"\/var\/www\/html\/wp-content\/plugins\/wp-filebase\/extras\/getid3\/getid3.php","line":156}
+[2023-08-01 05:33:06] PHP ERROR:{"type":8192,"message":"Function get_magic_quotes_runtime() is deprecated","file":"\/var\/www\/html\/wp-content\/plugins\/wp-filebase\/extras\/getid3\/getid3.php","line":156}
